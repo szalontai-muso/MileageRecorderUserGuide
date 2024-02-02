@@ -1,5 +1,5 @@
 ---
-parent: Multisoft Km-óraállás diktáló
+parent: Km-óraállás diktáló app
 title: Óraállások
 has_children: true
 nav_order: 2
@@ -26,3 +26,5 @@ A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 -	Beállítások
 -	Rendezés leolvasás dátuma szerint növekvő/csökkenő sorrendben
 -	Új óraállás felvétele
+
+**Fontos**: navigálni az oldalak között az androidos *Back* gombbal/mozdulattal **nem** lehet. Ehhez a **toolbar** bal oldalán található *Vissza* gombot kell használni. Az androidos *Back* funkció az applikácóból való kilépésre szolgál.

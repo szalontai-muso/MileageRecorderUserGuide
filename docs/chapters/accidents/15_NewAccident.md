@@ -1,5 +1,5 @@
 ---
-grand_parent: Multisoft Km-óraállás diktáló
+grand_parent: Km-óraállás diktáló app
 parent: Káresemények
 title: Új káresemény
 has_children: false
@@ -9,6 +9,7 @@ nav_order: 15
 # Új káresemény
 
 ![new accident](static/images/NewAccident.png)
+![new accident2](static/images/NewAccident2.png)
 
 Új káresemény rögzítésénél kötelező megadni a következőket:
 -	Baleset rövid **leírás**a

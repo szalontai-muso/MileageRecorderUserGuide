@@ -1,5 +1,5 @@
 ---
-grand_parent: Multisoft Km-óraállás diktáló
+grand_parent: Km-óraállás diktáló app
 parent: Óraállások
 title: Új óraállás
 has_children: false
@@ -9,12 +9,13 @@ nav_order: 15
 # Új óraállás
 
 ![new mileage record](static/images/NewMileageRecord.png)
+![new mileage record2](static/images/NewMileageRecord2.png)
 
 Új óraállás rögzítésénél kötelező megadni a következőket:
 -	Aktuális **óraállás**
 -	**Fénykép** a km-óráról (Odometer)
 
-A diktált óraállás értéke nagyobb kell hogy legyen mint az utoljára rögzített óraállás. Amíg ez nem teljesül, addig egy piros X látható az óraállás textbox jobb oldalán és nem lehet végrehajtani a rögzítést.
+A diktált óraállás értéke nagyobb kell hogy legyen mint az utoljára rögzített óraállás. Amíg ez nem teljesül, addig egy piros X látható az óraállás beviteli mező jobb oldalán és nem lehet végrehajtani a rögzítést.
 
 A fénykép hitelesítési célt szolgál. A elkészített fényképen jól látható kell hogy legyen a km-óraállás. A *Fénykép készítés/feltöltés* gombra koppintva a következő történik:
 -	Android app: megnyílik a kamera alkalmazás a fénykép készítéséhez
