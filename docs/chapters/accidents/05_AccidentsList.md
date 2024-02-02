@@ -2,7 +2,7 @@
 parent: Multisoft Km-óraállás diktáló
 title: Káresemények
 has_children: true
-nav_order: 5
+nav_order: 3
 ---
 
 # Beállítások

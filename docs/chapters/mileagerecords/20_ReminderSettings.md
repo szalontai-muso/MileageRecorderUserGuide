@@ -1,4 +1,5 @@
 ---
+grand_parent: Multisoft Km-óraállás diktáló
 parent: Óraállások
 title: Beállítások
 has_children: false

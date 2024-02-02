@@ -1,4 +1,5 @@
 ---
+grand_parent: Multisoft Km-óraállás diktáló
 parent: Káresemények
 title: Új káresemény
 has_children: false

@@ -2,7 +2,7 @@
 parent: Multisoft Km-óraállás diktáló
 title: Kezdőlap
 has_children: false
-nav_order: 5
+nav_order: 1
 ---
 
 # Kezdőlap
