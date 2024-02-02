@@ -1,5 +1,5 @@
 ---
-grand_parent: Km-óraállás diktáló app
+grand_parent: Mileage Recorder
 parent: Káresemények
 title: Új káresemény
 has_children: false

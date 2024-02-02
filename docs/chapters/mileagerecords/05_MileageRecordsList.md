@@ -1,5 +1,5 @@
 ---
-parent: Km-óraállás diktáló app
+parent: Mileage Recorder
 title: Óraállások
 has_children: true
 nav_order: 2

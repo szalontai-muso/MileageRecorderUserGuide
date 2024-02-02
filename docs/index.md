@@ -1,10 +1,10 @@
 ---
-title: Km-óraállás diktáló app
+title: Mileage Recorder
 has_children: true
 nav_order: 10
 ---
-# Km-óraállás diktáló app
+# Mileage Recorder - km-óraállás diktálás
 
 ## Az applikáció célja
-A Km-óraállás diktáló applikáció célja kényelmesebbé tenni a Multisoft Kft tulajdonában lévő személygépjárművek havonta esedékes km-óraállásainak bediktálását. Az applikációban továbbá lehetőség van a gépjárművekkel történt káresemények rögzítésére is.
+A Mileage Recorder applikáció célja kényelmesebbé tenni a Multisoft Kft tulajdonában lévő személygépjárművek havonta esedékes km-óraállásainak bediktálását. Az applikációban továbbá lehetőség van a gépjárművekkel történt káresemények rögzítésére is.
 

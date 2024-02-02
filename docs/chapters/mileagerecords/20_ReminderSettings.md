@@ -1,5 +1,5 @@
 ---
-grand_parent: Km-óraállás diktáló app
+grand_parent: Mileage Recorder
 parent: Óraállások
 title: Beállítások
 has_children: false
