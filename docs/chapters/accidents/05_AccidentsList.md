@@ -11,7 +11,7 @@ nav_order: 3
 ![accidents list with item](static/images/AccidentsList.png)
 
 Az Káresemény lista oldal hasonló az Óraállás listához, ezen is láthatóak a gépjármű főbb adatai valamint a korábban felvett káresemények:
--	Üres lista esetén az „Ehhez a gépjárműhöz még nem jelentettek káreseményt” felirat jelenik meg
+-	Üres lista esetén az *„Ehhez a gépjárműhöz még nem jelentettek káreseményt”* felirat jelenik meg
 -	A lista görgethető ha már nem férnek ki a képernyőre a káresemények
 -	Egy listaelemre koppintva az adott káresemény részletei jelennek meg egy újabb lapon
 
@@ -21,7 +21,7 @@ A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
 ![accidents list toolbar](static/images/AccidentsListToolbar.png)
 
--	Vissza a belépőoldalra
+-	Vissza a [Kezdőoldal](./chapters/login/05_StartPage.md)ra
 -	(Cím)
 -	Rendezés káresemény dátuma szerint növekvő/csökkenő sorrendben
--	Új káresemény felvétele
+-	[Új káresemény](./chapters/mileagerecords/15_NewAccident.md) felvétele

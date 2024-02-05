@@ -21,6 +21,6 @@ A fénykép hitelesítési célt szolgál. A elkészített fényképen jól lát
 -	Android app: megnyílik a kamera alkalmazás a fénykép készítéséhez
 -	Desktop app: meglévő fotót lehet tallózni és feltölteni
 
-Rögzíteni a **toolbar** jobb oldalán lévő pipa gombbal kell. Ha a rögzítés sikeres, az applikáció visszanavigál az **Óraállás lista** oldalra.
+Rögzíteni a **toolbar** jobb oldalán lévő pipa gombbal kell. Ha a rögzítés sikeres, az applikáció visszanavigál az [Óraállás lista](./chapters/mileagerecords/05_MileageRecordsList.md) oldalra.
 
 Ha a rögzítés során hiba történik, a hibaüzenet a lap alján jelenik meg, piros szöveggel.

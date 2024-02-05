@@ -17,6 +17,6 @@ nav_order: 15
 
 Az *Új kép hozzáadása* gombra koppintva lehet egyenként (sajnos, PowerApp limitáció) kiválasztani a fotókat.
 
-Rögzíteni a **toolbar** jobb oldalán lévő pipa gombbal kell. Ha a rögzítés sikeres, az applikáció visszanavigál az **Káresemény lista** oldalra.
+Rögzíteni a **toolbar** jobb oldalán lévő pipa gombbal kell. Ha a rögzítés sikeres, az applikáció visszanavigál az [Káresemény lista](./chapters/accidents/05_AccidentsList.md) oldalra.
 
 Ha a rögzítés során hiba történik, a hibaüzenet a lap alján jelenik meg, piros szöveggel.

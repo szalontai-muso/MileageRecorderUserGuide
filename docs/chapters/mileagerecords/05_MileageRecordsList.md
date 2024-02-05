@@ -11,7 +11,7 @@ nav_order: 2
 ![mileage records list with item](static/images/MileageRecordsList.png)
 
 Az **Óraállás lista** oldalon a gépjármű főbb adatai láthatóak valamint a korábban diktált km-óraállások:
--	Üres lista esetén az „*Ehhez a gépjárműhöz még nem diktáltak óraállást*” felirat jelenik meg
+-	Üres lista esetén az *„Ehhez a gépjárműhöz még nem diktáltak óraállást”* felirat jelenik meg
 -	A lista görgethető ha már nem férnek ki a képernyőre az óraállások
 -	Egy listaelemre koppintva az adott óraállás részletei jelennek meg egy újabb lapon
 
@@ -21,8 +21,8 @@ A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
 ![mileage records list toolbar](static/images/MileageRecordsListToolbar.png)
 
--	Vissza a belépőoldalra
+-	Vissza a [Kezdőoldal](./chapters/login/05_StartPage.md)ra
 -	(Cím)
--	Beállítások
+-	[Beállítások](./chapters/mileagerecords/20_ReminderSettings.md)
 -	Rendezés leolvasás dátuma szerint növekvő/csökkenő sorrendben
--	Új óraállás felvétele
+-	[Új óraállás](./chapters/mileagerecords/15_NewMileageRecord.md) felvétele
