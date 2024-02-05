@@ -21,8 +21,8 @@ A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
 ![mileage records list toolbar](static/images/MileageRecordsListToolbar.png)
 
--	Vissza a [Kezdőoldal](./chapters/login/05_StartPage.md)ra
+-	Vissza a [Kezdőoldal](../login/05_StartPage.md)ra
 -	(Cím)
--	[Beállítások](./chapters/mileagerecords/20_ReminderSettings.md)
+-	[Beállítások](20_ReminderSettings.md)
 -	Rendezés leolvasás dátuma szerint növekvő/csökkenő sorrendben
--	[Új óraállás](./chapters/mileagerecords/15_NewMileageRecord.md) felvétele
+-	[Új óraállás](15_NewMileageRecord.md) felvétele

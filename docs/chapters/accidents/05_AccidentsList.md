@@ -21,7 +21,7 @@ A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
 ![accidents list toolbar](static/images/AccidentsListToolbar.png)
 
--	Vissza a [Kezdőoldal](./chapters/login/05_StartPage.md)ra
+-	Vissza a [Kezdőoldal](../login/05_StartPage.md)ra
 -	(Cím)
 -	Rendezés káresemény dátuma szerint növekvő/csökkenő sorrendben
--	[Új káresemény](./chapters/mileagerecords/15_NewAccident.md) felvétele
+-	[Új káresemény](15_NewAccident.md) felvétele
