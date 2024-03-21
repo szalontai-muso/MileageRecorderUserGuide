@@ -17,7 +17,7 @@ Az Káresemény lista oldal hasonló az Óraállás listához, ezen is látható
 
 ![accident view](static/images/AccidentView.png)
 
-Új káreseményt felvételére az **Új káresemény** gombra kattintva nyílik lehetőség:
+Új káresemény felvételére az **Új káresemény** gombra kattintva nyílik lehetőség:
 
 ![mileage record view](static/images/NewAccidentButton.png)
 
