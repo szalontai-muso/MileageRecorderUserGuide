@@ -17,6 +17,10 @@ Az Káresemény lista oldal hasonló az Óraállás listához, ezen is látható
 
 ![accident view](static/images/AccidentView.png)
 
+Új káreseményt felvételére az **Új káresemény** gombra kattintva nyílik lehetőség:
+
+![mileage record view](static/images/NewAccidentButton.png)
+
 A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
 ![accidents list toolbar](static/images/AccidentsListToolbar.png)
@@ -24,4 +28,3 @@ A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 -	Vissza a [Kezdőoldal](../login/05_StartPage.md)ra
 -	(Cím)
 -	Rendezés káresemény dátuma szerint növekvő/csökkenő sorrendben
--	[Új káresemény](15_NewAccident.md) felvétele

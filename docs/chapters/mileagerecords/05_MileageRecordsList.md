@@ -17,12 +17,15 @@ Az **Óraállás lista** oldalon a gépjármű főbb adatai láthatóak valamint
 
 ![mileage record view](static/images/MileageRecordView.png)
 
+Új óraállást diktálni az **Új óraállás** gombra kattintva nyílik lehetőség:
+
+![mileage record view](static/images/NewMileageRecordButton.png)
+
 A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
 ![mileage records list toolbar](static/images/MileageRecordsListToolbar.png)
 
 -	Vissza a [Kezdőoldal](../login/05_StartPage.md)ra
 -	(Cím)
--	[Beállítások](20_ReminderSettings.md)
 -	Rendezés leolvasás dátuma szerint növekvő/csökkenő sorrendben
--	[Új óraállás](15_NewMileageRecord.md) felvétele
+-	[Beállítások](20_ReminderSettings.md)
