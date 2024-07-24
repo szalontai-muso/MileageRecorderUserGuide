@@ -19,7 +19,7 @@ Az **Óraállás lista** oldalon a gépjármű főbb adatai láthatóak valamint
 
 Új óraállást diktálni az **Új óraállás** gombra kattintva nyílik lehetőség:
 
-![mileage record view](static/images/NewMileageRecordButton.png)
+![new mileage record button](static/images/NewMileageRecordButton.png)
 
 A **toolbar**on a következő elemek láthatóak (balról jobbra haladva):
 
