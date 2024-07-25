@@ -22,3 +22,5 @@ A gombokkal a következő funkciók érhetők el:
     - **Szervízek**
 
 ![login](static/images/LoginPage2.png)
+
+A bal alsó sarokban található **?** ikonra koppintva ez az online help nyílik meg egy böngészőablakban.
